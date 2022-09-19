@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Australia
 * ✉️  You can contact me at [haydenlay35@gmail.com](mailto:haydenlay35@gmail.com)
-* 🧠  I'm learning Python, Amazon Web Services, Linux, CCNA 200-301
+* 🧠  I'm learning Python, Amazon Web Services, Linux (Basics)
 
 ### Skills
 
